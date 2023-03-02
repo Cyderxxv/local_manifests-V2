@@ -18,6 +18,6 @@
   <project name="samsungexynos9810/hardware_samsung_slsi" path="hardware/samsung_slsi" revision="thirteen-hwc" remote="github"/>
   
   <!-- Kernel -->
-  <project name="samsungexynos9810/kernel_samsung_exynos9810-V2" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+  <project name="samsungexynos9810/kernel_samsung_exynos9810-V2" path="kernel/samsung/exynos9810" revision="thirteen-slsi" remote="github"/>
 
 </manifest>
