@@ -14,7 +14,7 @@
   <project name="samsungexynos9810/vendor_samsung_crownlte-V2" path="vendor/samsung/crownlte" revision="thirteen" remote="github"/>
 
   <!-- SLSI -->
-  <project name="samsungexynos9810/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
+  <project name="samsungexynos9810/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen-slsi" remote="github"/>
   <project name="samsungexynos9810/hardware_samsung_slsi" path="hardware/samsung_slsi" revision="thirteen-hwc" remote="github"/>
   
   <!-- Kernel -->
